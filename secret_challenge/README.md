@@ -1,7 +1,7 @@
 # Secret-Finding Oriented Challenge
 
 In this folder there are nine programs containing a secret - a message "Success!" is printed if the right path is taken.
-Six of these programs are modified versions of dataset from [Banescu et al.](https://github.com/tum-i22/obfuscation-benchmarks) 3 are non-cryptographic hash functions.
+Six of these programs are modified versions of dataset from [Banescu et al.](https://github.com/tum-i22/obfuscation-benchmarks). The three other programs are non-cryptographic hash functions.
 
 The [src](https://github.com/binsec/hade/tree/master/secret_challenge/src) folder contains the original C source code of each program.
 
